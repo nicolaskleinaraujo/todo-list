@@ -18,7 +18,7 @@
 # How to execute the project
  Download the ".zip" file in the link below. <br>
  Download link: [todolist-app.zip](./assets/download/todolist-app.zip) <br>
- Execute the ".exe" file in the same folder as the ".csv" file.
+ Now just make sure you execute the ".exe" file in the same folder as the ".csv" file.
 
 # Author
  Nicolas Klein Faria de Araujo <br>
