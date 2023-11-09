@@ -1,4 +1,5 @@
 # To-do List with Python
+  ![MIT License](https://img.shields.io/badge/license-MIT-blue)<br>
   <img src="./assets/images/print-app.jpg" alt="Print App" width="350">.
 
 # About
