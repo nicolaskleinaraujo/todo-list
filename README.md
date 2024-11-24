@@ -23,4 +23,4 @@
 
 # Author
  Nicolas Klein Faria de Araujo <br>
- https://nk-portfolio-react.netlify.app
+ https://nkportfolio.tech
